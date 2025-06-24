@@ -1,0 +1,8 @@
+fastmcp
+mcp
+openai
+pydantic
+readabilipy
+pdfminer.six
+markdownify
+httpx 
